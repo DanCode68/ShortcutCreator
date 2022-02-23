@@ -1,0 +1,12 @@
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\bin\Debug\ShortcutCreator.exe.config
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\bin\Debug\ShortcutCreator.exe
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\bin\Debug\ShortcutCreator.pdb
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.csproj.AssemblyReference.cache
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.csproj.ResolveComReference.cache
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.frmShortcutCreator.resources
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.Properties.Resources.resources
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.csproj.GenerateResource.cache
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.csproj.CoreCompileInputs.cache
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.exe
+D:\Users\Daniel\Documents\Visual Studio 2019\Projects\ShortcutCreator\ShortcutCreator\obj\Debug\ShortcutCreator.pdb

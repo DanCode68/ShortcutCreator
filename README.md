@@ -1,2 +1,1 @@
-# ShortcutCreator
- 
+Visual Studio project for a utility capable of creating batches of Windows shortcuts
